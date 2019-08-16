@@ -2,6 +2,16 @@
 node_modules
 /dist
 
+npm-debug.log
+yarn-error.log
+origin/
+.idea
+.gitignore
+.svn/
+.vscode/
+.npmrc
+.cache/
+
 # local env files
 .env.local
 .env.*.local
